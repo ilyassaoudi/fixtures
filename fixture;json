@@ -1,0 +1,33 @@
+{
+  "FootballFixtures": {
+    "Countries": [
+      {
+        "CountryName": "England",
+        "CountryFlag": "https://flagcdn.com/w320/gb.png",
+        "Competitions": [
+          {
+            "CompetitionName": "Premier League",
+            "Fixtures": [
+              {
+                "MatchTime": "15:00",
+                "HomeTeam": "Coventry City",
+                "AwayTeam": "Brighton & Hove Albion",
+                "HomeTeamLogo": "https://flagcdn.com/w320/gb.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+                "Status": "Upcoming"
+              },
+              {
+                "MatchTime": "17:30",
+                "HomeTeam": "Manchester United",
+                "AwayTeam": "Manchester City",
+                "HomeTeamLogo": "https://flagcdn.com/w320/gb.png",
+                "AwayTeamLogo": "https://flagcdn.com/w320/gb.png",
+                "Status": "Upcoming"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
